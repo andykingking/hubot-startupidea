@@ -1,5 +1,7 @@
 # StartupIdea script for Hubot
 
+[![NPM](https://nodei.co/npm/hubot-startupidea.png)](https://nodei.co/npm/hubot-startupidea/)
+
 ## Description
 Suggests an idea for a hot new startup!
 
